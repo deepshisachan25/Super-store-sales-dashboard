@@ -21,8 +21,8 @@ Model Selection: Comparing different models based on accuracy metrics such as Me
 Model Tuning: Fine-tuning model parameters to improve forecast accuracy.
 
 ## Data Visualization and Dashboard Creation:
-Interactive Dashboards: Used tools like Tableau and Power BI to create interactive dashboards that allowed stakeholders to:
-Visualize Trends: Display sales trends over time with line charts, bar graphs, and heat maps.
+Interactive Dashboards: Used tool- Power BI to create interactive dashboards that allowed stakeholders to:
+Visualize Trends: Display sales trends over time with line charts, bar graphs, and donut charts.
 Analyze Performance: Drill down into specific periods to analyze performance and identify key drivers of sales.
 Scenario Analysis: Perform what-if analysis to understand the potential impact of different business scenarios on sales.
 
