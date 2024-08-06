@@ -11,10 +11,15 @@ Data Cleaning: Ensured data quality by handling missing values, correcting inacc
 Data Transformation: Converted raw data into a structured format suitable for analysis, including categorizing data into relevant time frames (daily, monthly, quarterly).
 ## Time Series Analysis:
 Trend Analysis: Identified long-term trends in sales data to understand overall growth patterns.
+![image](https://github.com/user-attachments/assets/378c8a03-7b15-479f-9a97-528a82169108)
+
 Seasonality Detection: Analyzed seasonal patterns to account for recurring fluctuations in sales due to holidays, seasons, or other periodic events.
+![image](https://github.com/user-attachments/assets/adc6b5e0-8e80-4a87-bd6c-12450cadb82c)
+
 Forecasting Models: Applied various time series forecasting models (e.g., ARIMA, Exponential Smoothing) to predict future sales. This involved:
 Model Selection: Comparing different models based on accuracy metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 Model Tuning: Fine-tuning model parameters to improve forecast accuracy.
+
 ## Data Visualization and Dashboard Creation:
 Interactive Dashboards: Used tools like Tableau and Power BI to create interactive dashboards that allowed stakeholders to:
 Visualize Trends: Display sales trends over time with line charts, bar graphs, and heat maps.
